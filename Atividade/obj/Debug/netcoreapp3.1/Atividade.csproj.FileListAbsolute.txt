@@ -1,0 +1,13 @@
+C:\Users\moises.bitencorte\source\repos\Atividade\Atividade\bin\Debug\netcoreapp3.1\Atividade.exe
+C:\Users\moises.bitencorte\source\repos\Atividade\Atividade\bin\Debug\netcoreapp3.1\Atividade.deps.json
+C:\Users\moises.bitencorte\source\repos\Atividade\Atividade\bin\Debug\netcoreapp3.1\Atividade.runtimeconfig.json
+C:\Users\moises.bitencorte\source\repos\Atividade\Atividade\bin\Debug\netcoreapp3.1\Atividade.runtimeconfig.dev.json
+C:\Users\moises.bitencorte\source\repos\Atividade\Atividade\bin\Debug\netcoreapp3.1\Atividade.dll
+C:\Users\moises.bitencorte\source\repos\Atividade\Atividade\bin\Debug\netcoreapp3.1\Atividade.pdb
+C:\Users\moises.bitencorte\source\repos\Atividade\Atividade\obj\Debug\netcoreapp3.1\Atividade.csprojAssemblyReference.cache
+C:\Users\moises.bitencorte\source\repos\Atividade\Atividade\obj\Debug\netcoreapp3.1\Atividade.csproj.CoreCompileInputs.cache
+C:\Users\moises.bitencorte\source\repos\Atividade\Atividade\obj\Debug\netcoreapp3.1\Atividade.AssemblyInfoInputs.cache
+C:\Users\moises.bitencorte\source\repos\Atividade\Atividade\obj\Debug\netcoreapp3.1\Atividade.AssemblyInfo.cs
+C:\Users\moises.bitencorte\source\repos\Atividade\Atividade\obj\Debug\netcoreapp3.1\Atividade.dll
+C:\Users\moises.bitencorte\source\repos\Atividade\Atividade\obj\Debug\netcoreapp3.1\Atividade.pdb
+C:\Users\moises.bitencorte\source\repos\Atividade\Atividade\obj\Debug\netcoreapp3.1\Atividade.genruntimeconfig.cache
